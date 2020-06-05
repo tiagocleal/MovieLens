@@ -1,7 +1,7 @@
 ## Tiago Coutinho Leal
 ## MovieLens Project 
 ## HarvardX: PH125.9x - Capstone Project
-## https://github.com/gmineo/
+## https://github.com/tiagocleal/MovieLens
 
 ###############################
 # MovieLens Project Code 
